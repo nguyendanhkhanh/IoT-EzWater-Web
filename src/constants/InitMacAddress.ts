@@ -1,0 +1,1 @@
+export const macAddress = "40F520171666"
